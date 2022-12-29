@@ -1,0 +1,89 @@
+72.96223829574546 -55.1912064749714
+SR Tendulkar (INDIA)		A+	1
+KC Sangakkara (Asia/ICC/SL)		A	2
+RT Ponting (AUS/ICC)		A-	3
+DPMD Jayawardene (Asia/SL)		B+	4
+JH Kallis (Afr/ICC/SA)		A-	5
+R Dravid (Asia/ICC/INDIA)		B	6
+V Kohli (INDIA)		A-	7
+BC Lara (ICC/WI)		B	8
+ST Jayasuriya (Asia/SL)		B-	9
+S Chanderpaul (WI)		B-	10
+Inzamam-ul-Haq (Asia/ICC/PAK)		B	11
+AB de Villiers (Afr/SA)		B+	12
+CH Gayle (ICC/WI)		B	13
+HM Amla (SA/World)		C+	14
+SC Ganguly (Asia/INDIA)		B-	15
+SR Waugh (AUS)		C+	16
+LRPL Taylor (NZ)		B	17
+Younis Khan (PAK)		C	18
+AR Border (AUS)		C+	19
+TM Dilshan (SL)		C+	20
+JE Root (ENG)		B-	21
+Mohammad Yousuf (Asia/PAK)		B-	22
+MS Dhoni (Asia/INDIA)		A-	23
+V Sehwag (Asia/ICC/INDIA)		B-	24
+GC Smith (Afr/ICC/SA)		B-	25
+MJ Clarke (AUS)		B-	26
+ME Waugh (AUS)		C	27
+DA Warner (AUS)		B-	28
+RG Sharma (INDIA)		B+	29
+Javed Miandad (PAK)		D+	30
+DL Haynes (WI)		C	31
+KS Williamson (NZ)		C+	32
+AN Cook (ENG)		C	33
+PA de Silva (SL)		C-	34
+M Azharuddin (INDIA)		C	35
+AC Gilchrist (AUS/ICC)		B	36
+SP Fleming (ICC/NZ)		C	37
+IVA Richards (WI)		C	38
+ML Hayden (AUS/ICC)		C	39
+Tamim Iqbal (BAN/ICC/World)		C	40
+BB McCullum (NZ)		B	41
+HH Gibbs (SA)		C+	42
+G Kirsten (SA)		C	43
+MS Atapattu (SL)		C-	44
+AD Mathews (SL)		B-	45
+SPD Smith (AUS)		C+	46
+KP Pietersen (ENG/ICC)		B-	47
+Mushfiqur Rahim (BAN)		C	48
+MJ Guptill (NZ)		B-	49
+DC Boon (AUS)		C	50
+IR Bell (ENG)		C+	51
+SM Gavaskar (INDIA)		D+	52
+Shakib Al Hasan (BAN)		C-	53
+GA Gooch (ENG)		D	54
+AJ Stewart (ENG)		C	55
+Saleem Malik (PAK)		C-	56
+Saeed Anwar (PAK)		C-	57
+Mohammad Hafeez (PAK)		C-	58
+CG Greenidge (WI)		C-	59
+A Ranatunga (SL)		C-	60
+MEK Hussey (AUS)		B-	61
+RB Richardson (WI)		C	62
+RR Sarwan (WI)		C	63
+Shoaib Malik (ICC/PAK)		D+	64
+NJ Astle (NZ)		C	65
+Yuvraj Singh (Asia/INDIA)		C	66
+A Flower (ZIM)		C-	67
+CL Hooper (WI)		C-	68
+DI Gower (ENG)		D+	69
+AJ Strauss (ENG)		C	70
+F du Plessis (SA/World)		C+	71
+Shahid Afridi (Asia/ICC/PAK)		C-	72
+Q de Kock (SA)		C+	73
+MN Samuels (WI)		C-	74
+Misbah-ul-Haq (PAK)		C-	75
+VVS Laxman (INDIA)		D+	76
+MA Taylor (AUS)		C-	77
+Babar Azam (PAK)		C+	78
+SR Watson (AUS)		C	79
+EJG Morgan (ENG/IRE)		C	80
+S Dhawan (INDIA)		C	81
+MV Boucher (Afr/ICC/SA)		C	82
+JM Bairstow (ENG)		C	83
+DB Vengsarkar (INDIA)		D	84
+ME Trescothick (ENG)		C+	85
+G Gambhir (INDIA)		D+	86
+MD Crowe (NZ)		D+	87
+GW Flower (ZIM)		D	88
